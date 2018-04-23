@@ -16,6 +16,7 @@ import {
   Badge,
   IconToggle
 } from "react-native-material-ui";
+import RNGooglePlaces from 'react-native-google-places';
 export default class App extends Component {
   constructor(props) {
     super(props);
